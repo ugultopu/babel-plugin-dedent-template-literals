@@ -1,0 +1,9 @@
+{
+  "name": "babel-plugin-dedent-template-literals",
+  "description": "A Babel plugin that enables you to write properly indented and aligned template literals",
+  "license": "MIT",
+  "repository": "github:ugultopu/babel-plugin-dedent-template-literals",
+  "author": "Utku Gultopu <ugultopu@gmail.com> (https://ugultopu.github.io)",
+  "keywords": ["whitespace", "multi-line"],
+  "version": "1.0.0"
+}
